@@ -28,7 +28,7 @@
                     <archive>
                         <manifest>
                             <!-- 此处指定main方法入口的class -->
-                            <mainClass>test</mainClass>
+                            <mainClass>Excute2Sql</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
